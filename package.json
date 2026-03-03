@@ -1,0 +1,16 @@
+{
+  "name": "petgpt-ai-pet-health-behavior-assistant",
+  "version": "0.1.0",
+  "description": "PetGPT is an AI-powered mobile app that provides instant, veterinarian-validated health advice, behavior training guidance, and emergency care instructions for pet owners. With pet ownership surging p",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "keywords": [
+    "ai",
+    "saas",
+    "the-firm"
+  ],
+  "author": "The Firm — AI Venture Studio",
+  "license": "MIT"
+}
